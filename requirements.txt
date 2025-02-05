@@ -1,1 +1,9 @@
+
 gtts
+pygame
+python-docx
+nltk
+tensorflow
+pydub
+streamlit
+Pillow
