@@ -50,8 +50,8 @@ def predict_class(sentence):
 # Diccionario de rutas de documentos
 doc_paths = {
     "Sistemas automotrices semestre 7-tecnologia de materiales automotrices": 'BOT1/PS_ISISA/SEMESTRE I/ISISA_1_calculoDiferencialeIntegral.docx',
-    "Sistemas automotrices semestre 7-programasintetico-tecnologia de materiales automotrices": './path_to_your_file.pdf',
-    "Ingenieria mecatronica semestre 1-programasintetico-estructura y propiedades de los materiales": './path_to_your_file.docx',
+    "Sistemas automotrices semestre 7-programasintetico-tecnologia de materiales automotrices": 'BOT1/PS_ISISA/SEMESTRE I/ISISA_1_calculoDiferencialeIntegral.docx',
+    "Ingenieria mecatronica semestre 1-programasintetico-estructura y propiedades de los materiales": 'BOT1/PS_ISISA/SEMESTRE I/ISISA_1_calculoDiferencialeIntegral.docx',
     "Ingenieria mecatronica semestre 1-Algebra lineal": 'PS_M/NIVEL I/UPIITA IM NI ÁLGEBRA LINEAL Y NÚMEROS COMPLEJOS.pdf'
 }
 
